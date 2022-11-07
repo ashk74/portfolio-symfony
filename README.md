@@ -1,6 +1,7 @@
 # Projet Symfony
 
 ## Qualité du code
+
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f525941db3da423f8acfab52edb58893)](https://www.codacy.com/gh/ashk74/portfolio/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ashk74/portfolio&amp;utm_campaign=Badge_Grade)
 
 ## Outils utilisés
@@ -13,8 +14,9 @@
 [![PHPUnit 9.5.24](https://img.shields.io/badge/phpunit_9.5.24-%231890FF.svg?style=for-the-badge&logo=phpunit&logoColor=white)](https://phpunit.de/)
 
 ## Besoins techniques
-  - PHP 8.1 ou supérieur
-  - PHP extensions : Ctype, iconv, PCRE, Session, SimpleXML et Tokenizer
+
+- PHP 8.1 ou supérieur
+- PHP extensions : Ctype, iconv, PCRE, Session, SimpleXML et Tokenizer
 
 ## Installation
 

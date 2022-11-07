@@ -1,6 +1,7 @@
 # Projet Symfony
 
 ## Qualité du code
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/07b38a4ff93845c8b8e42d277c621121)](https://app.codacy.com/gh/ashk74/portfolio?utm_source=github.com&utm_medium=referral&utm_content=ashk74/portfolio&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f525941db3da423f8acfab52edb58893)](https://www.codacy.com/gh/ashk74/portfolio/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ashk74/portfolio&amp;utm_campaign=Badge_Grade)
 
 ## Outils utilisés

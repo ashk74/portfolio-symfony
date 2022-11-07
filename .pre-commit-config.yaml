@@ -22,7 +22,7 @@ repos:
   hooks:
   - id: php-cs
     files: \.(php)$
-    args: [-p --standard=PSR12]
+    args: [-p --standard=PSR12 --ignore=migrations]
 
 - repo: https://github.com/digitalpulp/pre-commit-php.git
   rev: 1.4.0
@@ -34,6 +34,7 @@ repos:
   rev: 0.6.0
   hooks:
   - id: phpmd
+    args: [phpmd . html ruleset.xml]
 
 - repo: https://github.com/digitalpulp/pre-commit-php.git
   rev: 1.4.0

@@ -24,6 +24,8 @@
     "dependencies": {
         "autoprefixer": "^10.4.13",
         "bootstrap": "^5.2.2",
+        "jquery": "^3.6.1",
+        "popper.js": "^1.16.1",
         "postcss-loader": "^7.0.1"
     }
 }
